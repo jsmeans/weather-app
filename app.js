@@ -24,7 +24,7 @@ function timeConverter(UNIX_timestamp){
 
 function printWeatherData(city, temp, humidity){
 
-	var message = '\n\nIn ' + city + ' the temperature is ' + temp + ' degrees \nand the humidity is '+  humidity +'%.\n\n';
+	var message = '\n\nIn ' + city + ', the temperature is ' + temp + ' degrees \nand the humidity is '+  humidity +'%.\n\n';
 	console.log(message);
 }
 
