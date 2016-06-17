@@ -2,7 +2,7 @@
 
 var http = require("http");
 
-var city = 'boulder';
+var city = 'telluride';
 
 var zipCode = '73112';
 
